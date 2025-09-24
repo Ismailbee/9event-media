@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "Nigeria's Economy Shows Resilience Despite Global Challenges",
+    "image": "https://images.unsplash.com/photo-1611224923853-80b023f02d71?w=800&h=400&fit=crop",
+    "category": "nigeria",
+    "timestamp": "2024-01-15T10:30:00Z",
+    "description": "Nigeria's economy demonstrates remarkable resilience amid global economic uncertainties, with key sectors showing positive growth trends.",
+    "author": "Adebayo Johnson",
+    "readTime": "4 min read"
+  },
+  {
+    "id": 2,
+    "title": "Tech Innovation Hub Opens in Lagos",
+    "image": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=400&fit=crop",
+    "category": "nigeria",
+    "timestamp": "2024-01-14T14:20:00Z",
+    "description": "A new technology innovation hub has been launched in Lagos, aimed at fostering startup growth and digital transformation across West Africa.",
+    "author": "Funmi Adebayo",
+    "readTime": "3 min read"
+  },
+  {
+    "id": 3,
+    "title": "Global Climate Summit Reaches Historic Agreement",
+    "image": "https://images.unsplash.com/photo-1569163139394-de4e4f43e4e5?w=800&h=400&fit=crop",
+    "category": "international",
+    "timestamp": "2024-01-13T08:45:00Z",
+    "description": "World leaders at the global climate summit have reached a groundbreaking agreement on carbon emission reduction targets for the next decade.",
+    "author": "Maria Rodriguez",
+    "readTime": "6 min read"
+  },
+  {
+    "id": 4,
+    "title": "Nigerian Youth Win International Science Competition",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&h=400&fit=crop",
+    "category": "nigeria",
+    "timestamp": "2024-01-12T16:15:00Z",
+    "description": "A team of young Nigerian scientists has won first place at the International Science and Innovation Competition, showcasing Africa's growing tech talent.",
+    "author": "Chinyere Okafor",
+    "readTime": "5 min read"
+  },
+  {
+    "id": 5,
+    "title": "European Union Announces New Trade Policies",
+    "image": "https://images.unsplash.com/photo-1563013544-824ae1b704d3?w=800&h=400&fit=crop",
+    "category": "international",
+    "timestamp": "2024-01-11T12:00:00Z",
+    "description": "The European Union has unveiled comprehensive new trade policies that will impact global commerce and emerging market economies.",
+    "author": "Jean-Pierre Dubois",
+    "readTime": "4 min read"
+  },
+  {
+    "id": 6,
+    "title": "Sports: Super Eagles Qualify for International Tournament",
+    "image": "https://images.unsplash.com/photo-1574629810360-7efbbe195018?w=800&h=400&fit=crop",
+    "category": "sports",
+    "timestamp": "2024-01-10T20:30:00Z",
+    "description": "Nigeria's national football team, the Super Eagles, secures qualification for the upcoming international tournament with a decisive victory.",
+    "author": "Emeka Ogbonna",
+    "readTime": "3 min read"
+  },
+  {
+    "id": 7,
+    "title": "Asian Markets Experience Significant Growth",
+    "image": "https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=400&fit=crop",
+    "category": "international",
+    "timestamp": "2024-01-09T07:30:00Z",
+    "description": "Major Asian stock markets record substantial gains as investor confidence grows amid positive economic indicators across the region.",
+    "author": "Akira Tanaka",
+    "readTime": "4 min read"
+  },
+  {
+    "id": 8,
+    "title": "Entertainment: Nollywood Film Wins International Award",
+    "image": "https://images.unsplash.com/photo-1489599735189-c033b1bb8d9b?w=800&h=400&fit=crop",
+    "category": "entertainment",
+    "timestamp": "2024-01-08T18:45:00Z",
+    "description": "A Nigerian film has won the prestigious International Cinema Award, bringing global recognition to Nollywood's creative excellence.",
+    "author": "Blessing Okoro",
+    "readTime": "3 min read"
+  },
+  {
+    "id": 9,
+    "title": "Technology: AI Breakthrough in Medical Research",
+    "image": "https://images.unsplash.com/photo-1559757148-5c350d0d3c56?w=800&h=400&fit=crop",
+    "category": "technology",
+    "timestamp": "2024-01-07T11:20:00Z",
+    "description": "Researchers announce a major breakthrough in AI-powered medical diagnosis, promising to revolutionize healthcare delivery worldwide.",
+    "author": "Dr. Sarah Williams",
+    "readTime": "5 min read"
+  },
+  {
+    "id": 10,
+    "title": "Nigerian Agriculture Sector Embraces Modern Farming",
+    "image": "https://images.unsplash.com/photo-1500382017468-9049fed747ef?w=800&h=400&fit=crop",
+    "category": "nigeria",
+    "timestamp": "2024-01-06T09:15:00Z",
+    "description": "Nigerian farmers are increasingly adopting modern agricultural techniques and technology to boost productivity and food security.",
+    "author": "Ibrahim Musa",
+    "readTime": "4 min read"
+  },
+  {
+    "id": 11,
+    "title": "Global Energy Transition Accelerates",
+    "image": "https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&h=400&fit=crop",
+    "category": "international",
+    "timestamp": "2024-01-05T15:30:00Z",
+    "description": "Countries worldwide are accelerating their transition to renewable energy sources, with significant investments in solar and wind power.",
+    "author": "Elena Kozlova",
+    "readTime": "6 min read"
+  },
+  {
+    "id": 12,
+    "title": "Business: Nigerian Startups Attract Record Investment",
+    "image": "https://images.unsplash.com/photo-1553729459-efe14ef6055d?w=800&h=400&fit=crop",
+    "category": "business",
+    "timestamp": "2024-01-04T13:00:00Z",
+    "description": "Nigerian startups have attracted record-breaking investment funding, highlighting the country's growing position as Africa's tech hub.",
+    "author": "Tunde Bakare",
+    "readTime": "4 min read"
+  }
+]
